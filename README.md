@@ -1,4 +1,9 @@
-# Introspection - Web Directory Scanner (C Version)
+# Introspection - Web Directory Scanner
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![libcurl](https://img.shields.io/badge/libcurl-073551?style=for-the-badge&logo=curl&logoColor=white)
+![pthread](https://img.shields.io/badge/pthread-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![License](https://img.shields.io/github/license/jiunsa/introspection?style=for-the-badge)
 
 ## Description
 
