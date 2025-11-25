@@ -7,7 +7,7 @@
 
 ## Description
 
-Introspection est un scanner de répertoires web écrit en C qui teste l'existence de chemins sur un serveur web en utilisant une wordlist. Cette version C est une réécriture complète du programme Python original avec les mêmes fonctionnalités.
+Introspection est un scanner de répertoires web écrit en C qui teste l'existence de chemins sur un serveur web en utilisant une wordlist.
 
 ## Fonctionnalités
 
